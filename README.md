@@ -19,7 +19,7 @@ Train and evaluate a machine learning model on labeled email data
 Persist the trained model for efficient reuse
 
 Demonstrate applied machine learning for real-world text classification tasks
-
+```
 🚀 Key Features
 
 ✔ Machine learning–based spam detection
@@ -28,7 +28,7 @@ Demonstrate applied machine learning for real-world text classification tasks
 ✔ Reusable trained model pipeline
 ✔ Clean and modular code structure
 ✔ Lightweight and efficient inference
-
+````
 🧠 Machine Learning & NLP Approach
 
 The project follows a supervised learning text classification pipeline.
