@@ -70,7 +70,7 @@ New email content is passed through the trained pipeline
 Output classified as Spam or Not Spam
 
 This approach ensures consistency, accuracy, and reproducibility.
-
+```
 🏗️ Project Structure
 email_spam_detection/
 │
@@ -85,7 +85,7 @@ email_spam_detection/
 ├── requirements.txt                 # Python dependencies
 ├── LICENSE
 └── README.md                        # Project documentation
-
+````
 🔄 Application Workflow
 
 Email text is provided as input
