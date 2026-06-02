@@ -9,6 +9,19 @@
 
 ---
 
+## 📸 Application Screenshots
+
+### Main Interface
+![App UI](assets/app_ui.png)
+
+### Spam Detected
+![Spam Result](assets/spam_result.png)
+
+### Legitimate Email
+![Ham Result](assets/ham_result.png)
+
+---
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -112,6 +125,11 @@ Raw term frequencies give disproportionate weight to common words even after sto
 
 ```
 email_spam_detection/
+│
+├── assets/                      # ← Add your screenshots here
+│   ├── app_ui.png               #   Main Streamlit interface
+│   ├── spam_result.png          #   Example SPAM prediction
+│   └── ham_result.png           #   Example NOT SPAM prediction
 │
 ├── spam_classifier/
 │   ├── spam.csv                 # Primary labeled dataset (ham / spam)
@@ -283,7 +301,7 @@ joblib.dump(pipeline, "spam_model.pkl")
 
 ## Author
 
-**M V Karthikeya**
+**M V Karthikeya**  
 Computer Science Engineer · Machine Learning & NLP
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mvkarthikeya07-181717?style=flat-square&logo=github)](https://github.com/Mvkarthikeya07)
