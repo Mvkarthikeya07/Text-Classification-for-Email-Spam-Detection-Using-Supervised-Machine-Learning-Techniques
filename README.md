@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>📧 Email Spam Detection System</h1>
+<h1>📧 Text-Classification-for-Email-Spam-Detection-Using-Supervised-Machine-Learning-Techniques</h1>
 <h3>Text Classification Using Supervised Machine Learning & NLP</h3>
 
 <p>
